@@ -2,15 +2,6 @@
 
 [결과물](https://netflix-clone-1212f.web.app/)
 
- 
-
-#### 참고
-
-https://www.youtube.com/watch?v=XtMThy8QKqU&feature=emb_title
-
-> 유튜브 라이브 링크 
-
-
 
 ### tmdb API
 
